@@ -1,0 +1,3 @@
+/home/home/Desktop/MinecraftLauncher/build/CMakeFiles/Launcher.dir
+/home/home/Desktop/MinecraftLauncher/build/CMakeFiles/edit_cache.dir
+/home/home/Desktop/MinecraftLauncher/build/CMakeFiles/rebuild_cache.dir

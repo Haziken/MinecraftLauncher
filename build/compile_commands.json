@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/home/Desktop/MinecraftLauncher/build",
+  "command": "/usr/bin/g++ -DCURL_STATICLIB -isystem /home/home/Desktop/MinecraftLauncher/vcpkg/installed/x64-linux/include -g -std=gnu++20 -o CMakeFiles/Launcher.dir/src/main.cpp.o -c /home/home/Desktop/MinecraftLauncher/src/main.cpp",
+  "file": "/home/home/Desktop/MinecraftLauncher/src/main.cpp",
+  "output": "CMakeFiles/Launcher.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/home/Desktop/MinecraftLauncher/build",
+  "command": "/usr/bin/g++ -DCURL_STATICLIB -isystem /home/home/Desktop/MinecraftLauncher/vcpkg/installed/x64-linux/include -g -std=gnu++20 -o CMakeFiles/Launcher.dir/src/imgui_impl_sdl3.cpp.o -c /home/home/Desktop/MinecraftLauncher/src/imgui_impl_sdl3.cpp",
+  "file": "/home/home/Desktop/MinecraftLauncher/src/imgui_impl_sdl3.cpp",
+  "output": "CMakeFiles/Launcher.dir/src/imgui_impl_sdl3.cpp.o"
+},
+{
+  "directory": "/home/home/Desktop/MinecraftLauncher/build",
+  "command": "/usr/bin/g++ -DCURL_STATICLIB -isystem /home/home/Desktop/MinecraftLauncher/vcpkg/installed/x64-linux/include -g -std=gnu++20 -o CMakeFiles/Launcher.dir/src/imgui_impl_sdlrenderer3.cpp.o -c /home/home/Desktop/MinecraftLauncher/src/imgui_impl_sdlrenderer3.cpp",
+  "file": "/home/home/Desktop/MinecraftLauncher/src/imgui_impl_sdlrenderer3.cpp",
+  "output": "CMakeFiles/Launcher.dir/src/imgui_impl_sdlrenderer3.cpp.o"
+},
+{
+  "directory": "/home/home/Desktop/MinecraftLauncher/build",
+  "command": "/usr/bin/g++ -DCURL_STATICLIB -isystem /home/home/Desktop/MinecraftLauncher/vcpkg/installed/x64-linux/include -g -std=gnu++20 -o CMakeFiles/Launcher.dir/src/Settings.cpp.o -c /home/home/Desktop/MinecraftLauncher/src/Settings.cpp",
+  "file": "/home/home/Desktop/MinecraftLauncher/src/Settings.cpp",
+  "output": "CMakeFiles/Launcher.dir/src/Settings.cpp.o"
+},
+{
+  "directory": "/home/home/Desktop/MinecraftLauncher/build",
+  "command": "/usr/bin/g++ -DCURL_STATICLIB -isystem /home/home/Desktop/MinecraftLauncher/vcpkg/installed/x64-linux/include -g -std=gnu++20 -o CMakeFiles/Launcher.dir/src/Application.cpp.o -c /home/home/Desktop/MinecraftLauncher/src/Application.cpp",
+  "file": "/home/home/Desktop/MinecraftLauncher/src/Application.cpp",
+  "output": "CMakeFiles/Launcher.dir/src/Application.cpp.o"
+},
+{
+  "directory": "/home/home/Desktop/MinecraftLauncher/build",
+  "command": "/usr/bin/g++ -DCURL_STATICLIB -isystem /home/home/Desktop/MinecraftLauncher/vcpkg/installed/x64-linux/include -g -std=gnu++20 -o CMakeFiles/Launcher.dir/src/Minecraft.cpp.o -c /home/home/Desktop/MinecraftLauncher/src/Minecraft.cpp",
+  "file": "/home/home/Desktop/MinecraftLauncher/src/Minecraft.cpp",
+  "output": "CMakeFiles/Launcher.dir/src/Minecraft.cpp.o"
+},
+{
+  "directory": "/home/home/Desktop/MinecraftLauncher/build",
+  "command": "/usr/bin/g++ -DCURL_STATICLIB -isystem /home/home/Desktop/MinecraftLauncher/vcpkg/installed/x64-linux/include -g -std=gnu++20 -o CMakeFiles/Launcher.dir/src/Modpack.cpp.o -c /home/home/Desktop/MinecraftLauncher/src/Modpack.cpp",
+  "file": "/home/home/Desktop/MinecraftLauncher/src/Modpack.cpp",
+  "output": "CMakeFiles/Launcher.dir/src/Modpack.cpp.o"
+}
+]
